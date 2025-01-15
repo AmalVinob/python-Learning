@@ -1,0 +1,4 @@
+a = athul
+b = akhil
+c = anadhu
+d = amal

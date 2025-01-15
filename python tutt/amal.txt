@@ -1,0 +1,17 @@
+{
+    "people" : [
+     { "name" : "smith",
+       "place" : "UK",
+       "email" : "smith66@gmail.com",
+       "phone" : "919156982",
+       "licence" : false
+     },
+     {
+       "name" : "amal",
+       "place" : "india",
+       "email" : "amalvinob@gmail.com",
+       "phone" : "452463465432",
+       "license" : true
+     }
+     ]
+}

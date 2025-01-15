@@ -1,0 +1,11 @@
+1 : mapping operators to python
+
+2 : setters and decoretors
+
+3 : number cannot itratebale -- h =1231214 for i in h this is wrong
+
+4 : lru cache can be used to save cache ..... it is a decorator use functools
+
+5 : coroutine
+
+6 : get and post dont know have to study
